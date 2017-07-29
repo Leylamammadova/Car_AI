@@ -73,3 +73,11 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+FaultsAI/Binaries
+FaultsAI/Intermediate/
+FaultsAI/Saved/
+FaultsAI/FaultsAI.VC.db
+FaultsAI/Content/Maps/Level01_2.uasset
