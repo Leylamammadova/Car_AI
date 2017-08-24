@@ -79,5 +79,6 @@ DerivedDataCache/*
 FaultsAI/Binaries
 FaultsAI/Intermediate/
 FaultsAI/Saved/
+FaultsAI/Content/KiteDemo/
 FaultsAI/FaultsAI.VC.db
 FaultsAI/Content/Maps/Level01_2.uasset
